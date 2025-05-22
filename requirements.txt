@@ -1,0 +1,5 @@
+math_verify==0.6.0
+openai==1.79.0
+pandas==2.2.3
+tqdm==4.67.1
+vllm==0.7.2
