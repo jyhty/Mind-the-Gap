@@ -1,4 +1,6 @@
-# <center> <img src="./figures/logo.png" height="50">Mind the Gap: Bridging Thought Leap for Improved CoT Tuning
+<div align="center">
+     <h1><img src="./figures/logo.png" height="50">Mind the Gap: Bridging Thought Leap for Improved CoT Tuning</h2>
+<div align="center">
 
 <p align="center">
   <strong>Haolei Xu<sup>1*</sup></strong>,  
