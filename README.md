@@ -113,7 +113,7 @@ conda create -n eval python=3.10
 conda activate eval
 
 # Install required packages
-pip install -r math_eval/requirements.txt
+pip install -r requirements.txt
 ```
 
 > ⚠️ **Heads-up:**
@@ -209,3 +209,4 @@ If you find our work helpful, feel free to give us a cite.
 ## Contact Us
 If you have any questions, please contact us by email: 
 xuhaolei@zju.edu.cn, syl@zju.edu.cn, luwm@zju.edu.cn
+
