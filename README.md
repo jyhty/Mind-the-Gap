@@ -43,7 +43,7 @@ Overview of the Thought Leap phenomenon and our bridging approach. (a) Thought L
 ## News 🔥🔥
 - **2025.05.22:** We release our data, model and code.
 - **2025.05.20:** We release our paper.
-- **2025.09.18:** Our paper has been accepted by **Neurips 2025**.
+- **2025.09.18:** Our paper has been accepted by **NeurIPS 2025**.
 
 ## Overview 🦾🦾
 In this work, we address a critical but underexplored issue in Chain-of-Thought (CoT) reasoning for Large Language Models (LLMs): the presence of *Thought Leaps*—missing intermediate steps that disrupt the coherence and completeness of reasoning chains. These gaps often arise when human experts, relying on implicit knowledge, omit steps they consider trivial. However, such omissions hinder model learning and generalization.
@@ -210,5 +210,6 @@ If you find our work helpful, feel free to give us a cite.
 ## Contact Us
 If you have any questions, please contact us by email: 
 xuhaolei@zju.edu.cn, syl@zju.edu.cn, luwm@zju.edu.cn
+
 
 
